@@ -1,4 +1,4 @@
-MY PROJECT
+MY Planning
 - Konsisten untuk belajar coding setiap hari
 - Membuat website setiap minggunya 
 - Hasil website upload ke github
